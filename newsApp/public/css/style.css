@@ -1,0 +1,21 @@
+body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    overflow: hidden;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+
+.card-title {height: 150px;}
+
+.card-text {height: 250px;}
+
+
+
+
+
